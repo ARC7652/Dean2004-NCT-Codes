@@ -36,9 +36,9 @@ document.body.background = "https://i.imgur.com/VI0VbRH.png"
 
 HistHexcolour=["#4d6fc9","#d84b4b","#FFF62C","#00C100"];
         HistName=[" Howard Dean"," George W. Bush"," Michael Badnarik"," Ralph Nader"];
-        HistEV=[284,254,0,0];
-        HistPV=["58,705,660","61,378,498","1,098,498","514,745"];
-        HistPVP=["48.2%","50.4%","0.9%","0.4%"];
+        HistEV=[289,249,0,0];
+        HistPV=["61,025,377","60,047,014","366,884","244,589"];
+        HistPVP=["49.9%","49.1%","0.3%","0.2%"];
 
 
 
